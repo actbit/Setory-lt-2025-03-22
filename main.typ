@@ -23,11 +23,11 @@
 - 所属
   - 近畿大学工学部 電子情報工学科
   - 近畿大学 マイコン部
-
 - 好きな技術
   - C\#
   - dotnet
   - コンパイラ技術
+  - バックエンド
 - SNS
   - X:\@\_actbit
   - GitHub:actbit
@@ -197,6 +197,8 @@ while (true)
 }
 ```
 
+#link("https://github.com/actbit/LLamaSharpProj")[全コード LLamaSharpProj]
+
 == LLamaSharpを使って作成中の作品
 AITDD開発ツール
 - C\#にはドキュメントコメントという機能がある。ドキュメントコメントの機能によりコメント上にドキュメントと同様の情報を書くことができる。
@@ -258,3 +260,9 @@ class calc
 ]
 
 一部のドキュメントをとても重視するSIのような開発では重宝できるのではないか？
+
+#pagebreak()
+
+実際のコード(実装途中は以下からご確認いただけます)
+
+#link("https://github.com/actbit/CreateAutoProgram")[実装中のプロジェクト] 
