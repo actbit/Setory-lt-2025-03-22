@@ -49,7 +49,7 @@ LLMってPythonしか使えないって思っていませんか???
 == 使えるライブラリ
 
 以下のライブラリが使用できました
-- LLamaSharp
+- LLamaSharp←今日はこっち
 - Aspireでコンテナ管理
 
 
