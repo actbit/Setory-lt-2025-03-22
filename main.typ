@@ -63,8 +63,6 @@ LLamaSharpは*llama.cpp*をC\#向けにwrapしたものです。なのでllama2,
 
 === 開発環境の構築
 
-1. dotnetをインストールします！
-
 
 
 ==== dotnetのインストール
